@@ -1,11 +1,11 @@
 import java.util.Scanner ;
-class variable{
+class Variabl{
     int num1;
     int num2;
 }
     class Q1_Print {
         public static void main(String[] args) {
-            variable V =new variable();
+            Variabl V =new Variabl();
             Scanner sc = new Scanner(System.in);
             System.out.print("Enter 1st num : ");
             V.num1 = sc.nextInt();
